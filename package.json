@@ -1,0 +1,16 @@
+{
+  "name": "cruise-ships",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+      "test": "jest"
+    },
+  "keywords": [],
+  "author": "u1986f",
+  "license": "(ISC)",
+  "description": "",
+  "dependencies": {
+    "D": "^1.0.0",
+    "jest": "^29.5.0"
+  }
+}
