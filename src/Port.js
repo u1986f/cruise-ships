@@ -1,7 +1,7 @@
-class port {
-    constructor(name) {
-    this.name = name;
-    }
-};
+class Port {
+  constructor(currentPort) {
+    this.currentPort = currentPort;
+  }
+}
 
-module.exports = port;
+module.exports = Port;
